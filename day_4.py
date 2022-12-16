@@ -1,0 +1,13 @@
+print("===Welcome to your Adventure Simulator===")
+print("You'll be asked a bunch of questions then we'll make ou up an amazing story with YOU as the star! 🤩")
+print()
+name = input("What is your name? ")
+enemy = input("What is your worst enemy's name? ")
+superPower = input("What is your superpower? ")
+print()
+print("Our story begins as our hero name approaches a foreboding catsle_")
+print("Suddenly a bolt of lightning striked the ground att the feet of", name)
+print("'Our final battle begins!' shouts the evil", enemy, "Clearly missing the fact that", name, "has the power of", superPower, "which means they'll win quite easily")
+
+print("Our final battle begins!")
+print(f"Hello {name}! Your ability to {superPower} will make sure you never have to look at {enemy} again. Go eat your favorite food as you walk down the streets of where you live and use superPower for good and not evil!")
